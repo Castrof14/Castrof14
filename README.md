@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Abner Castro
+# 👨🏻‍💻 Abner Castro
 
 **`Programador Python/C com Aplicações em Engenharia`**
 
