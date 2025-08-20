@@ -24,14 +24,7 @@ Me chamo Abner josé de Castro Muniz, tenho 18 anos e sou de Canaã do Carajas P
 
 />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>  
+
 
 
 <img 
