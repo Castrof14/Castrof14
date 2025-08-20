@@ -4,11 +4,11 @@
 
 Me chamo Abner josé de Castro Muniz, tenho 18 anos e sou de Canaã do Carajas Pará. Concluí o ensino médio no Colegio Primeiro Mundo, com o curso de montagem e manutenção de computadores,Logica de Programação usando algoritmo. Atualmente, estou cursando Engenharia Eletrica na Anhanguera (primeiro periodo). Sou apaixonado por tecnologia, softwares, Sistemas Eletricos. Estou começando minha carreira agora é procuro adquirir experiencia.
 
-<
-    <a href="https://github.com/Castrof14">
+
+<a href="https://github.com/Castrof14">
         
-<         
-    </a>
+         
+</a>
     <a href="https://github.com/Castrof14">
         <img 
             alt="Seguidores" 
