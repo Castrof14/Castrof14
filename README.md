@@ -66,3 +66,9 @@ Me chamo Abner josé de Castro Muniz, tenho 18 anos e sou de Canaã do Carajas P
 
 </p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Castrof14/Castrof14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Castrof14/Castrof14a/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Castrof14/Castrof14/output/github-contribution-grid-snake.svg">
+</picture>
+
