@@ -18,6 +18,15 @@ Me chamo Abner josé de Castro Muniz, tenho 18 anos e sou de Canaã do Carajas P
     </a>
 </p>
 
+<h3 align="left">Connect with me!</h3>
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/abner-castro-b3963734b/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/cas._abner/)
+
+
+<h3 align="left">My Stack ~</h3>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
