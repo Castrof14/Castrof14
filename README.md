@@ -23,15 +23,15 @@ Me chamo Abner josé de Castro Muniz, tenho 18 anos e sou de Canaã do Carajas P
 ### 🤖 Linguagens e Tecnologias
 
 />
+
 <img 
     align="left" 
-    alt="C"
-    title="C" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
-/> 
-  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>  
 
 
 <img 
