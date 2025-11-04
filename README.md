@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
+  
 </div>
 
  <hr/>
@@ -33,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,html" />
     <img src="https://skillicons.dev/icons?i=python,cpp" /><br>
 </div>
 
