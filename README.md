@@ -1,83 +1,69 @@
-# 👨🏻‍💻 Abner Castro
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Castrof14.Castrof14" />
 
-**`Programador Python/C com Aplicações em Engenharia`**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Abner%20Castro!;" />
+</h1>
 
-Me chamo Abner josé de Castro Muniz, tenho 18 anos e sou de Canaã do Carajas Pará. Concluí o ensino médio no Colegio Primeiro Mundo, com o curso de montagem e manutenção de computadores,Logica de Programação usando algoritmo. Atualmente, estou cursando Engenharia Eletrica na Anhanguera (primeiro periodo). Sou apaixonado por tecnologia, softwares, Sistemas Eletricos. Estou começando minha carreira agora é procuro adquirir experiencia.
-
-
-<a href="https://github.com/Castrof14">
-        
-         
-</a>
-    <a href="https://github.com/Castrof14">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Castrof14?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
-<h3 align="left">Connect with me!</h3>
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/abner-castro-b3963734b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/cas._abner/)
-
-
-<h3 align="left">My Stack ~</h3>
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
-/>
-
-
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+<h3 align="center">Desenvolvedor Python 🐍 | Transformando código em interfaces interativas (PySide 6).</h3>
 
 <br/>
 
-### 📊 Estatísticas
+<div align="center">
+ 
+ ⚡ Atualmente estou cursando Engenharia Elétrica.**
+ 
+ 🌱 Atualmente estou trabalhando no projeto **Script Wise**
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Castrof14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+ 💬 Saiba mais sobre o projeto Script Wise aqui: https://www.instagram.com/scriptwise.tech/ 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castrof14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:abnerengenhariaeletrica@gmail.com>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/abner-castro-b3963734b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+</div>
 
-</p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=python,cpp" /><br>
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Castrof14/Castrof14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Castrof14/Castrof14a/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Castrof14/Castrof14/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
+<hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Castrof14/Castrof14/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-Castrof14.vercel.app/?user=Castrof14&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-Castrof14.vercel.app/api?username=Castrof14&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-Castrof14.vercel.app/api/top-langs/?username=Castrof14&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+<br/>
