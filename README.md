@@ -10,7 +10,7 @@
 
 <div align="center">
  
- ⚡ Atualmente estou cursando Engenharia Elétrica.**
+ ⚡ Atualmente estou cursando Engenharia **Elétrica.**
  
  🌱 Atualmente estou trabalhando no projeto **Script Wise**
 
