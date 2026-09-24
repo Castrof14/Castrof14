@@ -6,7 +6,16 @@
   <img src="./assets/banner-top.jpg" width="100%" />
 </p>
 
-<h1 align="center">— C A S T R O —</h1>
+<pre align="center">
+ ▄▄▄       ▄▄▄▄    ███▄    █ ▓█████  ██▀███  
+▒████▄    ▓█████▄  ██ ▀█   █ ▓█   ▀ ▓██ ▒ ██▒
+▒██  ▀█▄  ▒██▒ ▄██▓██  ▀█ ██▒▒███   ▓██ ░▄█ ▒
+░██▄▄▄▄██ ▒██░█▀  ▓██▒  ▐▌██▒▒▓█  ▄ ▒██▀▀█▄  
+ ▓█   ▓██▒░▓█  ▀█▓▒██░   ▓██░░▒████▒░██▓ ▒██▒
+ ▒▒   ▓▒█░░▒▓███▀▒░ ▒░   ▒ ▒ ░░ ▒░ ░░ ▒▓ ░▒▓░
+</pre>
+
+<h3 align="center">— C A S T R O —</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=480&height=40&duration=3500&lines=Desenvolvedor+Python;Web+%7C+Interfaces+Interativas;Analise+e+Desenvolvimento+de+Sistemas" />
