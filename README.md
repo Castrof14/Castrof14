@@ -2,22 +2,17 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Castrof14.Castrof14&left_color=000000&right_color=ffffff" />
 </div>
 
-<pre align="center">
- ▄▄▄       ▄▄▄▄    ███▄    █ ▓█████  ██▀███  
-▒████▄    ▓█████▄  ██ ▀█   █ ▓█   ▀ ▓██ ▒ ██▒
-▒██  ▀█▄  ▒██▒ ▄██▓██  ▀█ ██▒▒███   ▓██ ░▄█ ▒
-░██▄▄▄▄██ ▒██░█▀  ▓██▒  ▐▌██▒▒▓█  ▄ ▒██▀▀█▄  
- ▓█   ▓██▒░▓█  ▀█▓▒██░   ▓██░░▒████▒░██▓ ▒██▒
- ▒▒   ▓▒█░░▒▓███▀▒░ ▒░   ▒ ▒ ░░ ▒░ ░░ ▒▓ ░▒▓░
-</pre>
-
-<h3 align="center">— C A S T R O —</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=480&height=45&duration=3500&lines=Desenvolvedor+Python;Web+%7C+Interfaces+Interativas;Analise+e+Desenvolvimento+de+Sistemas" />
+  <img src="./assets/banner-top.jpg" width="100%" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━</p>
+<h1 align="center">— C A S T R O —</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=480&height=40&duration=3500&lines=Desenvolvedor+Python;Web+%7C+Interfaces+Interativas;Analise+e+Desenvolvimento+de+Sistemas" />
+</p>
+
+<p align="center">✦ ────────────── ✦ ────────────── ✦</p>
 
 <p align="center">
   <a href="mailto:abnerengenhariaeletrica@gmail.com">
@@ -31,13 +26,7 @@
   </a>
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/precise%20aim.gif" width="100%" />
-</p>
-
-<p align="center">━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━</p>
+<p align="center">✦ ────────────── ✦ ────────────── ✦</p>
 
 <h2 align="center">STACK</h2>
 
@@ -45,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode,figma&theme=dark" />
 </div>
 
-<p align="center">━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━</p>
+<p align="center">✦ ────────────── ✦ ────────────── ✦</p>
 
 <h2 align="center">CONTRIBUIÇÕES</h2>
 
@@ -53,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/castrof14/castrof14/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━</p>
+<p align="center">✦ ────────────── ✦ ────────────── ✦</p>
 
 <h2 align="center">ESTATÍSTICAS</h2>
 
@@ -68,7 +57,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Castrof14&theme=dark&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </div>
 
-<p align="center">━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━</p>
+<p align="center">✦ ────────────── ✦ ────────────── ✦</p>
+
+<p align="center">
+  <img src="./assets/banner-bottom.jpg" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Castrof14&label=VISUALIZAÇÕES&color=000000&style=for-the-badge" />
