@@ -10,12 +10,10 @@
 
 <div align="center">
  
- ⚡ Atualmente estou cursando Engenharia **Elétrica.**
+ ⚡ Atualmente estou cursando Analise e desenvolvimento de **Sistemas.**
  
- 🌱 Atualmente estou trabalhando no projeto **Stocckly**
 
- 💬 Saiba mais sobre o projeto Stocckly aqui: https://www.stocckly.com
-
+ 
  </div>
  
 <div align="center"> 
